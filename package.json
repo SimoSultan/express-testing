@@ -1,0 +1,19 @@
+{
+  "name": "express-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoSultan/express-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimoSultan/express-testing/issues"
+  },
+  "homepage": "https://github.com/SimoSultan/express-testing#readme"
+}
