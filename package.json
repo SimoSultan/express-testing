@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SimoSultan/express-testing/issues"
   },
-  "homepage": "https://github.com/SimoSultan/express-testing#readme"
+  "homepage": "https://github.com/SimoSultan/express-testing#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
